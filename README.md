@@ -1,8 +1,18 @@
 # fn-archive-aes-builds-ue-version
 you will find tables like this:
 
-# 7.10
 
+
+# 7.00
+|  7.00      | 7.00-CL-4629139                |
+|:----------:|----------------------------------|
+| ue-version | UE4.22-4629139 |
+| release date | 06-12-18	 |
+| download   | cdn.fnbuilds.services/7.00.rar |
+| main-aes   | 0xXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
+
+
+# 7.10
 |  7.10      | 7.10-CL-4667333                |
 |:----------:|----------------------------------|
 | ue-version | UE4.22-4667333 |
